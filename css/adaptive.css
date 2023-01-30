@@ -1,0 +1,127 @@
+/* 1320-1400*/
+@media screen and (max-width: 1399px){
+
+    .slick-prev{
+        left: 25px;
+    }
+    .slick-next {
+        left: 1060px;
+    }
+}
+/* 1200-1320*/
+@media screen and (max-width: 1320px){
+
+    .slick-prev{
+        left: 25px;
+    }
+    .slick-next {
+        left: 1060px;
+    }
+}
+/* 1024-1199*/
+@media screen and (max-width: 1199px){
+    .slick-prev{
+        left: 25px;
+    }
+    .slick-next {
+        left: 880px;
+    }
+}
+/* 1024-1199*/
+@media screen and (max-width: 1199px){
+    .slick-prev{
+        left: 25px;
+    }
+    .slick-next {
+        left: 880px;
+    }
+}
+/* 992-1024*/
+@media screen and (max-width: 1023px){
+    .slick-prev{
+        left: 25px;
+    }
+    .slick-next {
+        left: 880px;
+    }
+}
+/* 768-992*/
+@media screen and (max-width: 991px){
+    .slick-prev{
+        top: 370px;
+        left: 25px;
+    }
+    .slick-next {
+        top: 370px;
+        left: 640px;
+    }
+}
+/* 576-767*/
+@media screen and (max-width: 767px){
+    .slick-prev{
+        top: 265px;
+        left: 100px;
+    }
+    .slick-next {
+        top: 265px;
+        left: 305px;
+    }
+    .second {
+        color: #4c4949;
+    }
+
+    .first, .second, .third {
+        height: 440px;
+    }
+}
+/* 531-531*/
+@media screen and (max-width: 575px){
+    .slick-prev{
+        top: 240px;
+        left: 100px;
+
+    }
+    .slick-next {
+        top: 240px;
+        left: 355px;
+    }
+
+}
+/* 431-531*/
+@media screen and (max-width: 490px){
+    .slick-prev{
+        top: 240px;
+        left: 50px;
+
+    }
+    .slick-next {
+        top: 240px;
+        left: 295px;
+    }
+
+}
+/* 348-430*/
+@media screen and (max-width: 425px){
+    .slick-prev{
+        top: 240px;
+        left: 100px;
+
+    }
+    .slick-next {
+        top: 240px;
+        left: 215px;
+    }
+}
+
+/* 320-348*/
+@media screen and (max-width: 348px){
+    .slick-prev{
+        top: 240px;
+        left: 80px;
+
+    }
+    .slick-next {
+        top: 240px;
+        left: 215px;
+    }
+}
